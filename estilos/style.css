@@ -52,7 +52,7 @@ section#social img{
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.404);
 }
     section#social img:hover{
-    border: 3px solid gray;
+    border: 2px solid gray;
     transform: translate(-3px,-3px);
     box-shadow: 5px 5px 10px black;
     transition: transform 0.28s, border 0.5s;
